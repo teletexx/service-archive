@@ -1,0 +1,33 @@
+DE,Read back page16200
+PN,16200
+CT,99
+SC,0000
+PS,8000
+MS,16200
+OL,00,I8^PUUIUD]CTeletext G\162CFeb08CTV Norge
+OL,01,W?o5 `p`0p`pp0p0p`pp0FLAST  CDATA     
+OL,02,W5j5jj5bs55js1FUPDATECFROM AA  
+OL,03,W5j5 j~}j}5}h|5F22:30 CROADWATCH
+OL,04,A``````````````W,,/GTROUBLESPOTSA```````
+OL,05,F                                       
+OL,06,GM40FJ11-10: lane closed s/bnd for      
+OL,07,F            emergency crash barrier    
+OL,08,F            repairs.                   
+OL,09,G   FJ11-10: roadworks, right lanes     
+OL,10,F            closed s/bnd for emergency 
+OL,11,F            repairs. n/bnd will close  
+OL,12,F            at 8pm.                    
+OL,13,                                        
+OL,14,                                        
+OL,15,                                        
+OL,16,                                        
+OL,17,                                        
+OL,18,                                        
+OL,19,                                        
+OL,20,A``````````````````````````````````3/3``
+OL,21,C  Local newsF330  CLocal weatherF154   
+OL,22, ]DFare & Timetable details-JourneyCall 
+OL,23, ]D09069 150 108  T+ calls cost #1/min'G
+OL,24,ALocalRds   BEuroRds   CRegWthr  FNews  
+FL,163,165,154,300,160,00F
+@

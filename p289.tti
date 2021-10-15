@@ -1,0 +1,33 @@
+DE,Read back page28900
+PN,28900
+CT,99
+SC,0000
+PS,8000
+MS,28900
+OL,00,GP^GUUIUD]CTeletext G\289CFeb08CTV Norge
+OL,01,B]DTRAVEL CITYAABTA C6923          13/21
+OL,02,A]S+?!W`|t ||0 x|4`|| x|t x|4 S+?!
+OL,03,A]S 5555 W!#!b?jwp ~qpj7 +jwp  S 5555 
+OL,04,A]S 5555 W0{5otjw# 3#ju xjw#  S 5555 
+OL,05,A]Sx}0W"/' / / +/%"// +/' +/% Sx}0
+OL,06,C]DDATE   Fr    TO     ACC    7nt  14nt 
+OL,07,G]D01MAYA CWL DCRETE  ANmS/CD  -  A219  
+OL,08,G]D02MAYA CWL DRHODES ANmS/CD 189 A---  
+OL,09,G]D07MAYA CWL DCORFU  ANmS/CD 189 A229  
+OL,10,G]D08MAYA CWL DCRETE  ANmS/CD 189 A239  
+OL,11,G]D09MAYA BRS DCYPRUS ANmS/CD 269 A305  
+OL,12,G]D18FEBACWLD ALGARVE  A3AHB D#309A#389 
+OL,13,G]D18FEBACWLD ALGARVE  A  SC D#249A#269 
+OL,14,G]D18FEBACWLD CYPRUS   A  SC D#309A#279 
+OL,15,G]D19FEBACWLD G.CANARIAA  SC D#329A#369 
+OL,16,G]D19FEBACWLD MAJORCA  A3AHB D#289A --  
+OL,17,G]D20FEBACWLD C.BLANCA  A SC D#199A#289 
+OL,18,G]D20FEBACWLD TENERIFE  A SC D#319A#409 
+OL,19,C]D    FREE COMPREHENSIVE INSURANCE     
+OL,20,A]CB=BRS         CALL TRAVEL CITY       
+OL,21,A]CTOD#0-10  W<4xhhhh(l  (l(lh(lhlhl    
+OL,22,A]CABTA C6923Wu5j"k"k`{  js`{j`{b{jz    
+OL,23,A]CRet Agt 4 ATOL Hold.#5BkgFee pp.1%CCC
+OL,24,AFlorida  BFlights  CUK & Ire FHol Type 
+FL,208,230,240,220,101,00F
+@

@@ -1,0 +1,33 @@
+DE,Read back page10700
+PN,10700
+CT,99
+SC,0000
+PS,8040
+MS,10700
+OL,00,/UGUUUIUD]CTeletext G\107CFeb08CTV Norge
+OL,01,                                        
+OL,02,D] S  `pp0`p0`0  pp ppp pp p `0ppp      
+OL,03,D] S  "k7!sj5 jw{5##jw{5+t>!##      
+OL,04,D] S   j5 ssjupjws1  jws1~'o4        
+OL,05,D] S   "! "#!"## ##  #  ## # "! #       
+OL,06,A```````````CTEXT MESSAGINGA````````````
+OL,07,                                        
+OL,08,GSend a Vodafone text message toC8398   
+OL,09,Gcontaining one of the following codes: 
+OL,10,                                        
+OL,11,C500F` Latest finance news              
+OL,12,C500 FT1F` FTSE 100                     
+OL,13,C500 FT2F` FTSE Mid-250C                
+OL,14,C500 FT3F` FTSE 350                     
+OL,15,C500 FTSEF` FTSE All Share              
+OL,16,C500 FTSCF` FTSE Small Cap              
+OL,17,C500 FTTMF` FTSE techMark               
+OL,18,C500 FTEF` FTSE Eurotop 100             
+OL,19,C500 FTE3F` FTSE Eurotop 300            
+OL,20,A``````````````````````````````````7/9``
+OL,21, More about Teletext on mobile phonesC>>
+OL,22,T]CP FINANCIAL NEWS HEADLINES p500 C4   
+OL,23,D]CNews IndexG102CFlashG150CRegionalG160
+OL,24,AServices   BNews   CSport   FTV Plus   
+FL,108,300,400,110,101,00F
+@

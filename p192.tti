@@ -1,0 +1,33 @@
+DE,Read back page19200
+PN,19200
+CT,99
+SC,0000
+PS,8000
+MS,19200
+OL,00,IG^UUUIUD]CTeletext G\192CFeb08CTV Norge
+OL,01,W#5s`p`pp0s`p0ppju0pp`pp0A             
+OL,02,W,1j7j775j757j75<j775C  LAST UPDATE
+OL,03,Wp5j5j555j55uj55uj555C        22:33
+OL,04,A``````CFLIGHTW,/CARRIVALSA`````````````
+OL,05,G    F            B       G             
+OL,06,G0820FDusseldorf  BBD3426 GOn Time      
+OL,07,G0820FAberdeen    BBA4170 G             
+OL,08,G0830FChicago     BAA024  G             
+OL,09,G0845FDublin      BEI262  G             
+OL,10,G0845FDublin      BBA5862 G             
+OL,11,G0845FDusseldorf  BBA1777 G             
+OL,12,G0845FCopenhagen  BBA8361 G             
+OL,13,G0855FParis-CDG   BBA1815 G             
+OL,14,G0910FMilan/MalpenBBA8379 G             
+OL,15,G0915FGlasgow     BJY819  GOn Time      
+OL,16,G0915FBelfast CityBJY403  G             
+OL,17,G0930FParis-CDG   BBA1801 G             
+OL,18,G0935FEdinburgh   BBA1792 G             
+OL,19,G0940FZurich      BLX864  G             
+OL,20,A``````````````````````````````````3/6``
+OL,21,C     Data from Birmingham Airport      
+OL,22,C]MDGET AWAY FROM IT ALL! HOLIDAYS p200 
+OL,23,D]T///ot//////////////o||||~////////////
+OL,24,ABelfast BHeathrow1 CGatwickN F24 Hours 
+FL,103,101,105,140,100,00F
+@

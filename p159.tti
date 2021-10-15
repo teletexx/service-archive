@@ -1,0 +1,33 @@
+DE,Read back page15900
+PN,15900
+CT,99
+SC,0000
+PS,8000
+MS,15900
+OL,00,GsBPUUIUD]CTeletext G\159CFeb08CTV Norge
+OL,01,W+%b1|4|j=|b1|l4|l4FEAST AND WEST     
+OL,02,Wx4j5kkjuj5j5z5FSCOTTISH HIGHLANDS
+OL,03,A````````````````W,.%A``````````````````
+OL,04, MOUNTAIN FORECAST FOR FRIDAY           
+OL,05,F                                       
+OL,06,CWEST HIGHLANDS                         
+OL,07,AGFreezing level (ft):F1000 then 1500  
+OL,08,AGSummit winds (mph):FNNW 15 g40       
+OL,09,AGTemp at summit level (C):F-7         
+OL,10,                                       A
+OL,11,                                       A
+OL,12,CEAST HIGHLANDS                         
+OL,13,AGFreezing level (ft):F0 then 1000     
+OL,14,AGSummit winds (mph):FNW 25-40 g50     
+OL,15,AGTemp at summit level (C):F-8         
+OL,16,                                        
+OL,17,                                        
+OL,18,A```````GData from BORN2CLIMBA`````1/3``
+OL,19,BSPECIALIST MOUNTAIN WEATHER, 9 REGIONS 
+OL,20,B5-DAY FORECASTGFAXC09069 112 059G#1/min
+OL,21,D]CT+ \BORGPHONEC09014 777 359G60p/min  
+OL,22, ]DFare & Timetable details-JourneyCall 
+OL,23, ]D09069 150 108  T+ calls cost #1/min' 
+OL,24,AUKTravel  BHolidays CFerries FHolidays 
+FL,160,200,167,200,151,00F
+@

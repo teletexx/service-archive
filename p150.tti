@@ -1,0 +1,33 @@
+DE,Read back page15000
+PN,15000
+CT,99
+SC,0000
+PS,8040
+MS,15000
+OL,00,UsBUUUIUD]CTeletext G\150CFeb08CTV Norge
+OL,01,W5j5ppp`pp0z0up`pp0pp S ( `$` W  `  
+OL,02,W5j5wbs5k!7j{57 S)`|t( W   k! 
+OL,03,W}~5?-,*-5j 5j|45 S$5$W(,l?,,
+OL,04,V  `0 V/?%pp`pp0p0p0ppph|S8"/'(V`ppp0  
+OL,05,V  e:   5 7bs555wjS 2 (V8!80 "d 
+OL,06,V (qrf  5 5j}5+}?!}|jS V Vh//4
+OL,07,A                         T]] V"+'###+'!
+OL,08,A`````````````CWEATHER p151A````````````
+OL,09,FNational, local and other UK forecasts 
+OL,10,                                        
+OL,11,A`````````````CTRAVEL p160A`````````````
+OL,12,FNews on British roads, rail and ferries
+OL,13,                                        
+OL,14,A````````````CPASSPORT p170A````````````
+OL,15,FHoliday news, ski reports and weather  
+OL,16,F                                       
+OL,17,A````````````CAIRPORTS p180A````````````
+OL,18,FFlight arrivals at major UK airports   
+OL,19,                                        
+OL,20,GHAND HOLIDAYS! HOLIDAYS! see page 200  
+OL,21,A``````````Cwww.teletext.co.ukA`````````
+OL,22,C]MDGET AWAY FROM IT ALL! HOLIDAYS p200 
+OL,23,C]D    YOUR FAVOURITE TUNE  p359        
+OL,24,AWeather  BUKTravel CPassport FHolidays 
+FL,151,160,170,200,150,00F
+@

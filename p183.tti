@@ -1,0 +1,33 @@
+DE,Read back page18300
+PN,18300
+CT,99
+SC,0000
+PS,8000
+MS,18300
+OL,00,^PdPUUIUD]CTeletext G\183CFeb08CTV Norge
+OL,01,Wj5pp`p0zuju0p0pp`000C                 
+OL,02,Wo5jhn5k7j75!kj555 FLIGHT ARRIVALS  
+OL,03,Wj5sjz5j5j55 ~juu5CLAST UPDATEC22:30
+OL,04,CTERMINAL THREEA```````4/8``````````````
+OL,05,                                        
+OL,06,0655FLas Vegas   CUA930  G              
+OL,07,    FSan FranciscC       G              
+OL,08,0655FNew York    CUA956  G              
+OL,09,0655FChicago     CVS040  G              
+OL,10,0705FMontreal    CAC864  G              
+OL,11,0705FWashington  CVS022  G              
+OL,12,0705FWashington  CCO4422 G              
+OL,13,0710FNew York    CVS004  G              
+OL,14,0710FNew York    CCO4404 G              
+OL,15,0745FDenver      CUA906  G              
+OL,16,    FNewark      C       G              
+OL,17,0755FNew York    CAA104  G              
+OL,18,0815FOttawa      CAC3076 G              
+OL,19,    F            C       G              
+OL,20,A```````````````````````````````````````
+OL,21,   CData from BAA  FWeather latestC152  
+OL,22,D]GPSEE OUR COMPLETE HOLIDAY GUIDE p200 
+OL,23,D]GOBLIGATION INFORMATIONC SEE p373     
+OL,24,AHeathrow4 BGatwickN CM'chesterFHolidays
+FL,104,105,107,200,100,00F
+@

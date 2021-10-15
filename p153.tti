@@ -1,0 +1,33 @@
+DE,Read back page15300
+PN,15300
+CT,99
+SC,0000
+PS,8000
+MS,15300
+OL,00,^sIPUUIUD]CTeletext G\153CFeb08CTV Norge
+OL,01,W#i<|h<h<|h<|(,|h<,($ G   UK FRIDAY   
+OL,02,W#juj5jwsju|jwbs     G noon to 6pm 
+OL,03,A``````````````````````````````````2/3``
+OL,04,R                      R    x S|||$     
+OL,05,                       R^  *!zSqp0    
+OL,06,RBDry. Sunny.       ^R     fS!    
+OL,07,   BIncreasing cloud  ^R    &nSS1     
+OL,08,S  Band wind. 2 to 5C.^R    "ooS|0    
+OL,09,                      ^R&c|0 "xSSu    
+OL,10,                      ^R *o  c!SSt   
+OL,11,SCDry. Sunny.       ^R  j!  S kSu  
+OL,12,V  CScattered cloud.  ^R  "5  b|~S?$ 
+OL,13,   C-1 to 5C.         ^R `x%   jSS~}
+OL,14,   F                  ^R.#    xSS'
+OL,15,   F                  ^S        cx}
+OL,16,W                     ^R     p|//S/c#/'#
+OL,17,                                        
+OL,18, * WEATHER FOR THE NEXT FEW HOURS - P152
+OL,19,A```````````````````````````````````````
+OL,20,FForecast: voiceC09014 777 373F(60p/min)
+OL,21,D]CT+ \   FfaxC0906 55 000 73F  (#1/min)
+OL,22, ]DFare & Timetable details-JourneyCall 
+OL,23, ]D09069 150 108  T+ calls cost #1/min' 
+OL,24,ARegWthr  BAirQual  CShipping FHolidays 
+FL,154,155,157,200,151,00F
+@

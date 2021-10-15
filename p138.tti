@@ -1,0 +1,33 @@
+DE,Read back page13801
+PN,13801
+CT,99
+SC,0000
+PS,8040
+MS,13801
+OL,00,P^UUUUUU                                
+OL,01,A Page 138  Qualifier 01  Row 01 ABCDEFG
+OL,02,B Page 138  Qualifier 01  Row 02 ABCDEFG
+OL,03,C Page 138  Qualifier 01  Row 03 ABCDEFG
+OL,04,D Page 138  Qualifier 01  Row 04 ABCDEFG
+OL,05,E Page 138  Qualifier 01  Row 05 ABCDEFG
+OL,06,F Page 138  Qualifier 01  Row 06 ABCDEFG
+OL,07,G Page 138  Qualifier 01  Row 07 ABCDEFG
+OL,08,A Page 138  Qualifier 01  Row 08 ABCDEFG
+OL,09,B Page 138  Qualifier 01  Row 09 ABCDEFG
+OL,10,C Page 138  Qualifier 01  Row 10 ABCDEFG
+OL,11,D Page 138  Qualifier 01  Row 11 ABCDEFG
+OL,12,E Page 138  Qualifier 01  Row 12 ABCDEFG
+OL,13,F Page 138  Qualifier 01  Row 13 ABCDEFG
+OL,14,G Page 138  Qualifier 01  Row 14 ABCDEFG
+OL,15,A Page 138  Qualifier 01  Row 15 ABCDEFG
+OL,16,B Page 138  Qualifier 01  Row 16 ABCDEFG
+OL,17,C Page 138  Qualifier 01  Row 17 ABCDEFG
+OL,18,D Page 138  Qualifier 01  Row 18 ABCDEFG
+OL,19,E Page 138  Qualifier 01  Row 19 ABCDEFG
+OL,20,F Page 138  Qualifier 01  Row 20 ABCDEFG
+OL,21,G Page 138  Qualifier 01  Row 21 ABCDEFG
+OL,22,A Page 138  Qualifier 01  Row 22 ABCDEFG
+OL,23,B Page 138  Qualifier 01  Row 23 ABCDEFG
+OL,24,                                        
+FL,100,100,100,100,100,100
+@

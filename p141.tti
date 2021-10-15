@@ -1,0 +1,33 @@
+DE,Read back page14101
+PN,14101
+CT,99
+SC,0000
+PS,8040
+MS,14101
+OL,00,BdUUUUUU                                
+OL,01,F Page 141  Qualifier 01  Row 01 ABCDEFG
+OL,02,G Page 141  Qualifier 01  Row 02 ABCDEFG
+OL,03,A Page 141  Qualifier 01  Row 03 ABCDEFG
+OL,04,B Page 141  Qualifier 01  Row 04 ABCDEFG
+OL,05,C Page 141  Qualifier 01  Row 05 ABCDEFG
+OL,06,D Page 141  Qualifier 01  Row 06 ABCDEFG
+OL,07,E Page 141  Qualifier 01  Row 07 ABCDEFG
+OL,08,F Page 141  Qualifier 01  Row 08 ABCDEFG
+OL,09,G Page 141  Qualifier 01  Row 09 ABCDEFG
+OL,10,A Page 141  Qualifier 01  Row 10 ABCDEFG
+OL,11,B Page 141  Qualifier 01  Row 11 ABCDEFG
+OL,12,C Page 141  Qualifier 01  Row 12 ABCDEFG
+OL,13,D Page 141  Qualifier 01  Row 13 ABCDEFG
+OL,14,E Page 141  Qualifier 01  Row 14 ABCDEFG
+OL,15,F Page 141  Qualifier 01  Row 15 ABCDEFG
+OL,16,G Page 141  Qualifier 01  Row 16 ABCDEFG
+OL,17,A Page 141  Qualifier 01  Row 17 ABCDEFG
+OL,18,B Page 141  Qualifier 01  Row 18 ABCDEFG
+OL,19,C Page 141  Qualifier 01  Row 19 ABCDEFG
+OL,20,D Page 141  Qualifier 01  Row 20 ABCDEFG
+OL,21,E Page 141  Qualifier 01  Row 21 ABCDEFG
+OL,22,F Page 141  Qualifier 01  Row 22 ABCDEFG
+OL,23,G Page 141  Qualifier 01  Row 23 ABCDEFG
+OL,24,                                        
+FL,100,100,100,100,100,100
+@

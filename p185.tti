@@ -1,0 +1,33 @@
+DE,Read back page18500
+PN,18500
+CT,99
+SC,0000
+PS,8000
+MS,18500
+OL,00,sPBUUUIUD]CTeletext G\185CFeb08CTV Norge
+OL,01,W#/`p0zu`LONDONW`0       G            
+OL,02,W(|hn5k7j555j7!o1   FLIGHT ARRIVALS  
+OL,03,Wpjz5j5juu5ju0j5  CLAST UPDATEC22:28
+OL,04,CNORTH TERMINALA```````1/7``````````````
+OL,05,                                        
+OL,06,1915FNewquay     CBA4010 GLanded    2226
+OL,07,    FPlymouth    C       G              
+OL,08,2230FAlicante    CBA6967 GLanded    2210
+OL,09,2250FMalaga      CBA6987 GExpected  2253
+OL,10,2345FBanjul      CAMM347DGExpected  2359
+OL,11,2350FMalta       CBA6939 GExpected  0045
+OL,12,                                        
+OL,13,C      Arrivals for Friday 9 Feb        
+OL,14,                                        
+OL,15,0445FEntebbe     CBA2066 GExpected  0455
+OL,16,0455FMauritius   CBA2068 GExpected  0437
+OL,17,    FNairobi     C       G              
+OL,18,0520FLagos       CBA2074 GExpected  0500
+OL,19,0530FDammam      CBA2148 GExpected  0510
+OL,20,A```````````````````````````````````````
+OL,21,  CData from BAA  F Weather indexC151   
+OL,22,C]DPYOUR OWN PERSONAL NUMBER PLATEAp378G
+OL,23,G]A   CALL 0800 350033 LIMITED OFFER    
+OL,24,AGatwickS  BM'chester  CB'ham FHolidays 
+FL,106,107,102,200,100,00F
+@

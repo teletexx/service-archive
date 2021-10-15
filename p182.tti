@@ -1,0 +1,33 @@
+DE,Read back page18200
+PN,18200
+CT,99
+SC,0000
+PS,8000
+MS,18200
+OL,00,IP^PUUIUD]CTeletext G\182CFeb08CTV Norge
+OL,01,Wj5pp`p0zuju0p0pp`000C                 
+OL,02,Wo5jhn5k7j75!kj555 FLIGHT ARRIVALS  
+OL,03,Wj5sjz5j5j55 ~juu5CLAST UPDATEC22:30
+OL,04,CTERMINAL TWOA`````````3/5``````````````
+OL,05,                                        
+OL,06,0825FParis CdG   CAF1170 G              
+OL,07,0825FMilan-LinateCAZ226  G              
+OL,08,0830FMunich      CLH4658 G              
+OL,09,0830FMunich      CBD3278 G              
+OL,10,0840FGeneva      CSR830  G              
+OL,11,0845FVienna      COS451  G              
+OL,12,0845FVienna      CNG321  G              
+OL,13,0850FFrankfurt   CLH4536 G              
+OL,14,0850FFrankfurt   CBD3224 G              
+OL,15,0855FHamburg     CLH4502 G              
+OL,16,0855FHamburg     CBD3290 G              
+OL,17,0900FToulouse    CAF5238 G              
+OL,18,0925FParis CdG   CAF1270 G              
+OL,19,0925FRome        CAZ200  G              
+OL,20,A```````````````````````````````````````
+OL,21,   CData from BAA  FWeather latestC152  
+OL,22,C]MDGET AWAY FROM IT ALL! HOLIDAYS p200 
+OL,23,C]D    YOUR FAVOURITE TUNE  p359        
+OL,24,AHeathrow3 BGatwickN CM'chesterF24 Hours
+FL,103,105,107,140,100,00F
+@

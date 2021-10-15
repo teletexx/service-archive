@@ -1,0 +1,33 @@
+DE,Read back page16000
+PN,16000
+CT,99
+SC,0000
+PS,8000
+MS,16000
+OL,00,U8dUUUIUD]CTeletext G\160CFeb08CTV Norge
+OL,01,  W/?%pp`pp0p0p0ppph|   \T]#####W   |4\
+OL,02,T]W 5 7bs5557j    G AIRPORT W5\
+OL,03,T]TW5 5ju5o}%wsj    G M-WAY Wot5\
+OL,04,T] W#! #!"##! #! ###"#    G W       +/%\
+OL,05,A```````````````````````````````````````
+OL,06,MCHECK ROADFLASH FOR THE LATEST JAMSC161
+OL,07,C                                       
+OL,08,A```````````````````````````````````````
+OL,09,GMOTORWAYSC......162GEURO-ROADSC.....165
+OL,10, LOCAL ROADSC....163GFERRY/RAILC.....166
+OL,11, LOCAL TRANSPORTC164GFERRY LATESTC...167
+OL,12,  FRoad information from AA Roadwatch   
+OL,13,A```````````````````````````````````````
+OL,14,GPASSPORTGINDEXC.170GWEATHER INDEXC..151
+OL,15,GFLIGHT ARRIVALSC180GHOLIDAY INDEXC..200
+OL,16,GHOLIDAYS ABROADC210GUK HOLIDAYSC....240
+OL,17,T<,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4
+OL,18,T5FNATIONAL AND REGIONAL EVENTSC440 C4T5
+OL,19,T-,,,,,,,,Cwww.teletext.co.ukT,,,,,,,,,%
+OL,20,G]                                      
+OL,21,M]D HILTON OFFERS FROM #99 -Asee p248   
+OL,22,D]GPFREEPHONE 08000 93 93 99 OR SEE p354
+OL,23,G]                                      
+OL,24,ARoadflash  BM'Ways  CLocalRds FWeather 
+FL,161,162,163,151,160,00F
+@

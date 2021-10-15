@@ -1,0 +1,33 @@
+DE,Read back page27100
+PN,27100
+CT,99
+SC,0000
+PS,8000
+MS,27100
+OL,00,B/GGUUIUD]CTeletext G\271CFeb08CTV Norge
+OL,01,B]DTRAVEL CHOICE ABTA G6441        19/22
+OL,02,B]DRETAIL  AGENTS  FOR  ATOL  HOLDERS   
+OL,03,D]G  INSURANCE: 7nts #5 AND 14nts #10   
+OL,04,D]S          xl0|l0|l0|h4               
+OL,05,D]S          n5.!n1j5               
+OL,06,D]S          /*%/  /*%/*-               
+OL,07,D]GDate  Frm To         Nts  S/C   H/B  
+OL,08, ]D01/04ACARDALGARVE   A07nD#199  #249  
+OL,09, ]D01/04ACARDCYPRUS    A07nD#239  # -   
+OL,10, ]D02/04ACARDC.DORADA  A07nD#189  #219  
+OL,11,G]D04/04ACARDMAJORCA   A07nD#189  #199  
+OL,12, ]D05/04ACARDC.DEL SOL A07nD#259  #279  
+OL,13, ]D16/04ACARDC.DORADA  A07nD#209  #239  
+OL,14,G]D18/04ACARDCYPRUS    A07nD#229  #259  
+OL,15, ]D19/04ACARDC.DEL SOL A07nD#229  #249  
+OL,16,G]D21/04ABRSDMAJORCA   A07nD#209  #219  
+OL,17,G]D21/04ACARDC.BLANCA  A07nD#209  #239  
+OL,18,G]D22/04ACARDALGARVE   A07nD#209  #239  
+OL,19,D]G   A]GCALL TRAVEL CHOICE ON: D]      
+OL,20,D]Sh<|h<|(l4|l4 |l4|l4|l4 |,h<| ,|h<,   
+OL,21,D]Sjuhw}  z5 s{5z5z5 shw} sjw   
+OL,22,D]CTOD #7-10pp   BSD 2 SHR  B-Fee#8pp   
+OL,23,            WWW.TRAVELCHOICE.COM        
+OL,24,AHolidaysBDestinationCFlightsFFirst Choi
+FL,200,210,230,266,109,00F
+@

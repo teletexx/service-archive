@@ -1,0 +1,33 @@
+DE,Read back page15200
+PN,15200
+CT,99
+SC,0000
+PS,8000
+MS,15200
+OL,00,IsUUUUUUD]CTeletext G\152CFeb08CTV Norge
+OL,01,Wk5|l4|hhh<|(,|h<,($   GUK WEATHER FOR
+OL,02,Wj5z57ju|jwbs     GNEXT FEW HOURS
+OL,03,A```````````````````````````````````````
+OL,04,RBCloudy, clear     ^R    x `|||$     
+OL,05,   Bspells. A few     ^RR  *!zSqp0    
+OL,06,   Bwintry showers.   ^S     fSS!    
+OL,07,   BFrosty.           ^S    &nSS1     
+OL,08,                      ^S    "oo|0    
+OL,09,SCCloudy, clear     ^S&c|0S"xu    
+OL,10,   Cperiods.          ^S *o  c!t   
+OL,11,   CWidespread frost. ^S  j!    ku  
+OL,12,                      ^S  "5  b|~?$ 
+OL,13,VFVariable cloud.   ^S `x%   j~}
+OL,14,   FShowers clearing. ^S.#    x'
+OL,15,   FClear spells.     ^S        cx}
+OL,16,   FFrosty later.     ^S    Vp|/S//c#S'#
+OL,17,                                        
+OL,18,A```````````````````````````````````````
+OL,19,  LAST NEW MOON 24 JAN- NEXT 23 FEB     
+OL,20,FVoice forecastC09014 777 373F(60p/min) 
+OL,21,D]CT+ \FfaxC0906 55 000 73F(cost #1 min)
+OL,22, ]DFare & Timetable details-JourneyCall 
+OL,23, ]D09069 150 108  T+ calls cost #1/min' 
+OL,24,ANatF'cast  BRegWthr CAirQual FHolidays 
+FL,153,154,155,200,151,00F
+@

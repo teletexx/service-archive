@@ -1,0 +1,33 @@
+DE,Read back page20000
+PN,20000
+CT,15
+SC,0001
+PS,8000
+MS,20000
+OL,00,UUdPUUIUD]CTeletext G\200CFeb08CTV Norge
+OL,01,S]T `p0 Qj{ Tx      `<0h4  x            
+OL,02,S]Vh! "4 T5 Txt `|<k=!x$`p xt4h x h3$ 
+OL,03,S]Q"! ~;4T5`!kj5h` j7j5z|`'+} 
+OL,04,S]Q +/'  /-%T/!+&"-'"-'*%+-+,+&/!,'!"-' 
+OL,05,A    HOW TO SEARCH FOR YOUR HOLIDAY     
+OL,06,CP     www.teletext.co.uk/holidays      
+OL,07,                                        
+OL,08,M DestinationC210  GHoliday Type  C220  
+OL,09,                                        
+OL,10,M Flight OnlyC230 G UK/Eire BreaksC240  
+OL,11,                                        
+OL,12,M CompanyC    280  GAccomm Only   C225  
+OL,13,                                        
+OL,14,                                        
+OL,15,Th,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4 
+OL,16,TjF PASSPORTC                        T5 
+OL,17,TjG Holiday News, Ideas, Features    T5 
+OL,18,TjG and WeatherC................ 170 T5 
+OL,19,TjF Flight ArrivalsC             180 T5 
+OL,20,T*,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,% 
+OL,21,  GViewer Information      C      290   
+OL,22,C]DPERSONALISE YOUR NOKIA PHONE WITH    
+OL,23,C]D    YOUR FAVOURITE TUNE  p359        
+OL,24,ADestinations BHol TypeCFlightsFUK & Ire
+FL,210,220,230,240,101,00F
+@
